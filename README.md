@@ -1,5 +1,5 @@
 # Studienarbeit
-Classification based on invisible features and thereby finding theeffect of tuberculosis vaccine on COVID-1
+Classification based on invisible features and thereby finding theeffect of tuberculosis vaccine on COVID-19
 
 #Codes_and_dataset# includes all the codes and the data set used. 
 The data set includes both raw and complied data for the problem in csv format. 
